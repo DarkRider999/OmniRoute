@@ -1,10 +1,12 @@
 ---
 title: "Free Tiers & Free-Token Budget"
 version: 3.8.50
-lastUpdated: 2026-10-18
+lastUpdated: 2026-11-18
 ---
 
 # Free Tiers & Free-Token Budget
+
+> **Targeted refresh — 2026-11-18:** Gemini 3.8 Flash is now included as a free-tier, rate-limited model (no fixed monthly token grant is claimed). Cloudflare Workers AI provides 10,000 Neurons/day on the Workers Free plan, but Cloudflare lists Kimi K2.6 among models requiring a paid Workers plan or prepaid AI Gateway credits; it is therefore excluded from the free-model catalogue. See the [Gemini pricing](https://ai.google.dev/gemini-api/docs/pricing) and [Workers AI pricing](https://developers.cloudflare.com/workers-ai/platform/pricing/) pages for current terms. Google notes that Free-tier content may be used to improve its products.
 
 > **For Users**: Looking for a simple guide? See the [Free Tiers Guide](../getting-started/FREE-TIERS-GUIDE.md) for step-by-step instructions on getting free AI.
 
