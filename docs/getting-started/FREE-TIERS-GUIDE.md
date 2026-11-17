@@ -1,7 +1,7 @@
 ---
 title: "Free Tiers Guide: Understand and Combine Free AI Access"
 version: 3.8.52
-lastUpdated: 2026-10-11
+lastUpdated: 2026-11-18
 ---
 
 # Free Tiers Guide: Understand and Combine Free AI Access
@@ -32,9 +32,11 @@ These providers have a recurring, keyless, or uncapped free-access path in the a
 | **Kiro AI**       | Claude Sonnet 4.5, Haiku 4.5, DeepSeek V3.2, and others                        | Audited catalog estimates a 25K-token shared monthly pool                                                        | OAuth/account flow; ToS flagged `avoid` in the catalog                                   |
 | **Pollinations**  | Current keyless model set; some former models are discontinued or key-required | Keyless; no published token cap                                                                                  | No provider credential for the keyless models                                            |
 | **Logfare**       | kimi-k3, deepseek-v4-pro, glm-5.2, gpt-5.6-luna, minimax-m3, and more          | Free API key (no rate limits, no card); **every request is logged** for research (opt out at logfare.ai/consent) | Instant key at logfare.ai/register; ToS/privacy at logfare.ai/tos and logfare.ai/privacy |
-| **Cloudflare AI** | Workers AI catalog                                                             | Audited pool estimates ~30M tokens/month from published usage units                                              | Cloudflare account and API credentials                                                   |
-| **Gemini**        | Gemini Flash family                                                            | Variable project/model rate limits; no fixed monthly token grant is included in the headline                     | Google AI Studio API key; check the project’s active limits                              |
+| **Cloudflare AI** | Workers AI catalog                                                             | 10,000 Neurons/day on Workers Free; some models require paid billing or prepaid credits                         | Cloudflare account and API credentials                                                   |
+| **Gemini**        | Gemini 3.8 Flash, Gemini 2.5 Flash and Flash-Lite                               | Free-tier access with project/model rate limits; no fixed monthly token grant is counted                         | Google AI Studio API key; check the project’s active limits                              |
 | **Groq**          | Llama, GPT-OSS, and Qwen models                                                | Audited pool estimates ~15M tokens/month                                                                         | Groq API key; rate limits apply                                                          |
+
+> **Privacy note (checked 2026-11-18):** Google’s Gemini Developer API pricing page states that content on the Free tier may be used to improve Google products. Avoid sending confidential or sensitive data through Free-tier Gemini; review the provider’s current terms before connecting it.
 
 ### Signup Grants and Provider-Specific Credits
 

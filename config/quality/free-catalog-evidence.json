@@ -125,6 +125,18 @@
       "limitations": "Requires an eligible free-tier project. Paid-tier rates and optional tools differ; project/model limits apply. No monthly token allowance or billing protection is established."
     },
     {
+      "provider": "gemini",
+      "modelId": "gemini-3.8-flash",
+      "catalogHash": "1cd3a64608f7dda0fe18bf0eac2cc63a9d3c0b7054284e040f293f4f9c1a7750",
+      "sourceType": "public-page",
+      "sourceUrl": "https://ai.google.dev/gemini-api/docs/pricing",
+      "checkedAt": "2026-11-18",
+      "claim": "recurring-free-access",
+      "verifiedBy": "OpenAI assistant — official-source review",
+      "summary": "Google's official Gemini Developer API pricing page lists Gemini 3.8 Flash at $0 for input and output on the Standard Free tier and Priority Free tier.",
+      "limitations": "Requires an eligible Gemini API Free-tier project; model and project rate limits apply. No fixed monthly token allowance or billing protection is claimed. Google states Free-tier content may be used to improve its products. Optional tools and grounding have separate pricing."
+    },
+    {
       "provider": "kilo-gateway",
       "modelId": "kilo-auto/free",
       "catalogHash": "03d22d26dbf19ecdc470298c4603d103c8b1307bd45e239613e7e86028b9e8a9",
